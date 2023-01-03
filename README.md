@@ -2,8 +2,8 @@
 
 Basic HTML project with :
 
-Images
-H1
-Paragraph
-Hyperlinks
-List
+- Images
+- H1
+- Paragraph
+- Hyperlinks
+- List
